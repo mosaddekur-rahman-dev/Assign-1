@@ -42,20 +42,6 @@ This webpage is for a conference for the web developers. This conference talks a
 **Tools:** VS Code · git . github
 ---
 
-## Dependencies  
-List required dependencies or major libraries:
-
-```json
-{
-  "react": "^18.x",
-  "express": "^4.x",
-  "mongoose": "^7.x",
-  "tailwindcss": "^3.x"
-}
-```
-
----
-
 ## Installation️ & Setup
 1. Clone the repo and install dependencies:
 
@@ -111,4 +97,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 **Live URL:** [Live Site](https://yourdomain.com/)
 **Email:** [mosaddekur.rahman.dev](mosaddekur.rahman.dev@gmail.com)
-**Portfolio:** [Portfolio]((https://github.com/mosaddekur-rahman-dev))
+**Portfolio:** [Portfolio](https://github.com/mosaddekur-rahman-dev)
