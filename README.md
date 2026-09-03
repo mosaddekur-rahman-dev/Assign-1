@@ -1,5 +1,5 @@
 # Project Name  
-Assignment 1
+A developers Conference webpage
 
 ---
 
@@ -20,29 +20,26 @@ Assignment 1
 ---
 
 ## About the Project 
-A brief description of the project, its purpose, and what problem it solves.
+This is a webpage of a conference for the web developers.
 
 ---
 
 ## Project Overview  
-Summarize the project objectives, key metrics, and any relevant statistics.  
-You can also include a diagram or screenshot.
+This webpage is for a conference for the web developers. This conference talks about the web development sector including some workshops along with food.
 
 ---
 
 ## Key Features  
-- Feature 1 — short explanation  
-- Feature 2 — short explanation  
-- Feature 3 — short explanation  
-- Authentication / Dashboard / API Integration (optional examples)
+- Feature 1 — Conference for web developers 
+- Feature 2 — Workshops 
+- Feature 3 — Future opportunities
+
 
 ---
 
 ## Tech Stack  
-**Frontend:** React.js · Tailwind CSS · TypeScript  
-**Backend:** Node.js · Express.js · MongoDB  
-**Tools:** Git · VS Code · Firebase · JWT
-
+**Frontend:** Html · CSS  
+**Tools:** VS Code · git . github
 ---
 
 ## Dependencies  
@@ -83,20 +80,6 @@ npm run dev
 
 ---
 
-## Folder Structure
-
-```plaintext
-your-project/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   └── hooks/
-├── public/
-└── package.json
-```
-
 ---
 
 ## Contributions (Optional)
@@ -127,5 +110,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 **Live URL:** [Live Site](https://yourdomain.com/)
-**Email:** [username](your-email@example.com)
-**Portfolio:** [Portfolio](https://yourportfolio.com)
+**Email:** [mosaddekur.rahman.dev](mosaddekur.rahman.dev@gmail.com)
+**Portfolio:** [Portfolio]((https://github.com/mosaddekur-rahman-dev))
